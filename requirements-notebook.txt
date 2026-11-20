@@ -1,0 +1,10 @@
+-r requirements.txt
+setuptools==80.9.0
+ydata-profiling==4.18.4
+phik==0.12.5
+seaborn==0.13.2
+matplotlib==3.10.0
+nbformat==5.10.4
+nbconvert==7.16.6
+ipykernel==6.30.1
+jupyterlab==4.4.10
