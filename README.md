@@ -2,7 +2,7 @@
 
 Домашняя работа по регрессии на объявлениях CarDekho. По характеристикам автомобиля модель оценивает цену в индийских рупиях. На 1 000 тестовых объявлениях итоговая Ridge дала **R² = 0,945**, **RMSE = 178 010 ₹** и **455 прогнозов в пределах ±10%** от фактической цены.
 
-[Ноутбук с результатами](AI_HW1_Regression_with_inference_pro.ipynb) · [Обученный пайплайн](car_price.pickle) · [Код приложения](app.py) · [HTML-профиль train](reports/train_profile.html)
+[Открыть приложение в Streamlit Cloud](https://ai-hw1-pro-regression-uandr-ms3262bojth3lhcsh8sbtd.streamlit.app/) · [Ноутбук с результатами](AI_HW1_Regression_with_inference_pro.ipynb) · [Обученный пайплайн](car_price.pickle) · [Код приложения](app.py) · [HTML-профиль train](reports/train_profile.html)
 
 ## Данные и признаки
 
